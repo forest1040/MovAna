@@ -2,6 +2,10 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+.DS_Store
+
+MovAna/Models/YOLOv3.mlmodel
+
 ## User settings
 xcuserdata/
 
